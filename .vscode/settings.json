@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cx16.h": "c",
+        "stdio.h": "c"
+    }
+}
