@@ -1,3 +1,3 @@
-# Commander X16 C Template
+# Senexfetch
 
-Just something for myself for the future, with proper include paths for vscode
+Yet another neofetch but for the Commander X16, based heavily on the paleofetch project
